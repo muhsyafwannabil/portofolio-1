@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  padding: 30px;
+  font-family: cursive;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.profil-img {
+  margin-inline: auto;
+  max-width: 200px;
+  display: block;
+}
+.bungkus {
+  max-width: 600px;
+  margin-inline: auto;
+  background-color: aliceblue;
+}
+
+.oke {
+  width: 100%;
+}
+.oke1 {
+  margin-inline: auto;
+  display: block;
+}
+.gallery {
+  width: 50%;
+  display: block;
+  margin-bottom: 20px;
+  margin-inline: auto;
+}
+
+body {
+  background-image: url(image/bg2.webp);
+  font-family: sans-serif;
+}
+.titik {
+  text-align: center;
+}
+.titik1 {
+  text-align: center;
+}
